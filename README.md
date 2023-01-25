@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bimal194
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning backend development and some blockchain techstacks.
+- 👀 I’m a full stack developer.
+- 🌱 Currently exploring backend-dev and some blockchain techstacks.
 
 
 <!---
