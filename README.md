@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bimal194
 - 👀 I’m a full stack developer.
-- 🌱 Currently exploring backend-dev and some blockchain techstacks.
+- 🌱 Currently exploring backend-dev (Java, Spring, SpringBoot, Microservices)
+- ✨ GenAI and AI agents enthusiast. (RAG tool, LLM, Langchain, etc)
 
 
 <!---
